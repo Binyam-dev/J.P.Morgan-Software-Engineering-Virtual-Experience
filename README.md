@@ -14,6 +14,11 @@ To do this, I have set up my system so I could interface with the relevant finan
 
 The visualization of charts and data analysis our trader sees is all built with J.P. Morgan's open-sourced software [Perspective](https://github.com/finos/perspective).
 
+## Perspective
+J.P. Morgan Chase created the Perspective tool over many years to allows users to present and manipulate data feeds visually in web applications.
+
+Perspective provides a set of flexible data transforms, such as pivots, filters, and aggregations. It utilizes bleeding-edge browser technology such as Web Assembly and Apache Arrow and is unmatched in browser performance. It is engineered for reliability and production-vetted on the JPMorgan Chase trading floor and is now available to the development community as Open Source.
+
 ## Aims
 1. Implement a Web Interface with a stock price data feed and set up a system for real-time analysis of the data.
 
