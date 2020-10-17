@@ -26,3 +26,7 @@ Perspective provides a set of flexible data transforms, such as pivots, filters,
 
 ## Verified Certificate
 My Verified Certificate is accessible through [**this link**](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_3u5LzTWS39A3H3j5B_completion_certificate.pdf).
+
+---
+
+_Author:_ [_Giovanni Arcudi_](https://github.com/GiovanniArcudi)
