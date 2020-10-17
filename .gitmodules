@@ -1,0 +1,9 @@
+[submodule "JPMC-tech-task-1-PY3"]
+	path = JPMC-tech-task-1-PY3
+	url = git@github.com:GiovanniArcudi/JPMC-tech-task-1-PY3.git
+[submodule "JPMC-tech-task-2-PY3"]
+	path = JPMC-tech-task-2-PY3
+	url = git@github.com:GiovanniArcudi/JPMC-tech-task-2-PY3.git
+[submodule "JPMC-tech-task-3-PY3"]
+	path = JPMC-tech-task-3-PY3
+	url = git@github.com:GiovanniArcudi/JPMC-tech-task-3-PY3.git
